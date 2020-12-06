@@ -24,7 +24,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ![easy_solution](Images/easy_solution.png)
 
-### Moderate
+### Hard
 
 * Create a script that will loop through all the stocks and take the following info.
 
@@ -42,16 +42,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ![moderate_solution](Images/moderate_solution.png)
 
-### Hard
-
-* Your solution will include everything from the moderate challenge.
-
-* Your solution will also be able to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
-
-* Solution will look as follows.
-
-![hard_solution](Images/hard_solution.png)
-
 ### CHALLENGE
 
 * Make the appropriate adjustments to your script that will allow it to run on every worksheet just by running it once.
@@ -64,15 +54,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
 
-## Submission
-
-* To submit please save the following in the same folder to <https://www.dropbox.com/>.
-
-  * A screen shot for each year of your results on the Multi Year Stock Data.
-
-  * VBA Scripts as separate files.
-
-* After everything has been saved, create a sharable link and submit that to <https://bootcampspot-v2.com/>.
 
 - - -
 
